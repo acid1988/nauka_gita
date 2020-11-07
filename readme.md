@@ -7,3 +7,4 @@ Ucze sie gita, mam na imie: **Remik**
 -c
 -d
 -e
+-f
