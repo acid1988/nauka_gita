@@ -14,3 +14,4 @@ Ucze sie gita, mam na imie: **Remik**
 =======
 >>>>>>> parent of e092f17... Moj drugi commit
 Pierwsza zmiana
+Druga zmiana
