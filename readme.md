@@ -8,3 +8,4 @@ Ucze sie gita, mam na imie: **Remik**
 -d
 -e
 -f
+-g
